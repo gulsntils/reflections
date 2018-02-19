@@ -6,3 +6,8 @@ Why might you want to always pull changes manually rather than having Git automa
 
 	There may be changes on local machine and pull would undo them
 	
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+	fork - copy from someone's repository on github to your repository on github
+	clone - copy from github onto local machine
+	branches - create a copy of project to add a new feature/fix a bug
